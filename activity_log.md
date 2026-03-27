@@ -8,3 +8,4 @@
 - [2026-03-27T11:27:04Z] refactor: simplify conditional logic
 - [2026-03-27T11:33:12Z] feat: add helper utility function
 - [2026-03-27T14:00:50Z] chore: remove deprecated API calls
+- [2026-03-27T20:06:30Z] chore: update dependencies to latest versions
