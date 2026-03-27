@@ -5,3 +5,4 @@
 - [2026-03-05T08:46:03Z] test: add unit tests for core module
 - [2026-03-05T18:41:45Z] feat: add helper utility function
 - [2026-03-05T17:56:30Z] perf: optimize loop for better performance
+- [2026-03-27T11:27:04Z] refactor: simplify conditional logic
